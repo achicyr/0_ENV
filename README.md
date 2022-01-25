@@ -5,66 +5,130 @@
 ---
 
 ## INFORMATIONS
-**Next step**: 
+---
+**Previous step**: 
 repository: 0_ENV
 branch: etape_0
-
+---
 **Current Repository**=>  [0_ENV](https://github.com/achicyr/0_ENV)
-**Current Branch**=> [main](https://github.com/achicyr/0_ENV)
-- Branches of this repo:
-    - main
-    - etape_0
-    - etape_1
-    - ___others___
+**Current Branch**=> [etape_1](https://github.com/achicyr/0_ENV/tree/etape_1)
+---
+**Next step**: 
+repository: 1_HTML
+branch: etape_2
+---
+
 
 ---
 
 ## INSTRUCTIONS:
 
-- Bien suivre la petite vidéo de recommandations sur "comment faire mon workout webdev quotidien" ?
-- Suivre la vidéo témoin
+- Suivez la vidéo
 - Reproduisez toutes les étapes, avec ou sans l'aide du guide ci-après
 - Pratiquez les quizes && exercices dans la dernières section
 
 
-## GOAL: DEVENIR UN DÉVELOPPEUR-WEB INDÉENDANT LE PLUS RAPIDEMENT POSSIBLE
+## GOAL: Installer votre environnement de développement full-beginer très rapidement
+[![Image alt text](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
 
-**0_ENV**
-ÉTAPE 0: DÉFINIR SES OBJECTIFS VIA DES OUTILS ET DES NOTIONS CLÉS PRÉSENTER DANS UNE VIDÉO TÉMOIN
-ÉTAPE 1: APPRENDRE À METTRE EN PLACE SON ENVIRONEMENT DE DÉVELOPPEMENT(CODEBASE) VIA UNE VIDÉO TÉMOIN, ET UTILISER QUELQUE OUTILS DE CODEUR(markdown,git,github,codepen,vscode plugins/emmet/snippets, terminal,browser console)
-TP1: SUIVRE LA VIDÉO TÉMOIN, PUIS APPLIQUER CE QUI A ÉTÉ VU
-                    - CRÉER DEUX REPOSITORIES NOMMÉS ('workouts' ET 'bootstarter') (VIDE LE 1ER ET POUR LE 2nd FORKER LE REPO SUIVANT : ), 
-                    - PUIS DANS LE 2nd CRÉER DEUX BRANCHES ('hotfix' et 'develop'), PUIS SE POSITIONNER SUR 'develop' ET CHANGER LES VALEURS DE 'index.html' POUR VOUS L'APPROPRIER, COMME VU DANS LA VIDÉO TÉMOIN DU TP
-**1_HTML**
-ÉTAPE 2: APPRENDRE LES BASES DU HTML VIA UNE VIDÉO TÉMOIN, ET CODER SES PREMIÈRES LIGNES DE CODE (HTML) VIA UN THÈME-PROJET(PORTFOLIO) ASSEMBLÉS DE DIFFÉRENTES MANIÈRES
-ÉTAPE 3: ÉLABORER UN REPOSITORY BOOSTARTER POUR VOS FUTURS PROJET WEB À AMÉLIORER CONTINUELLEMENT DURANT TOUT L'APPRENTISSAGE DU FRONTEND, ET INITIER VOTRE PORTFOLIO
-TP2: S'ENTRAÎNER À CODER DU HTML ET CRÉER VOTRE PORTFOLIO VIA DIFFÉRENTS MOYENS, EN AUGMENTANT À CHAQUE CYCLE(3) L'OBJECTIF LE CONTENU ET LA TECHNICITÉ DE LA CODEBASE 
-- créer un repository 'portfolio' avec 7 branches (main, develop, chrome, forked, cloned, codepen, scratch)
-- directement sur chrome (se positionner sur la branch chrome),
-- via un pen codepen dont on copie/colle le code dans vscode (se positionner sur la branch codepen),
-- via un fork git et directement sur github (se positionner sur la branch forked),
-- via un clone git et directement sur codesandbox (se positionner sur la branch cloned),
-- from scratch(d'une feuille blanche) dans vscode (se positionner sur la branch scratch)
-- puis se positioner sur la branche 'develop' et copier la codebase de votre repo 'bootstrap'
-- tout pusher
-**2_CSS**
-ÉTAPE 4: APPRENDRE LES BASES DU CSS VIA UNE VODÉO TÉMOIN, ET UTILISER LES BRANCHES POUR NAVIGUER ENTRE ET CODER SES PREMIÈRES LIGNES DE CODE CSS VIA DE PETITS JEUX ET EXERCICES AUTOUR D'UN THÈME-PROJET(QUIZES,URLs/codepen,PORTFOLIO)
-ÉTAPE 5: ASSIMILER LES BASES  INTERMÉDIAIRES ET LES BONNES PRATIQUES DU CODAGE CSS VIA UNE VIDÉO TÉMOIN, ET VISITER LES LIENS DE LA LISTE DES CAS-D'USAGE AINSI QUE LES EXERCICES QUIZES ET TUTORIELS ASSOCIÉS
-TP3: 
-- FORKER LE REPO PUIS COMPLÉTER LE FICHIER CSS POUR OBTENIR LE RÉSULTAT DE LA MAQUETTE PRÉSENT DANS LE REPO
-- RÉLAISER LE TP DU COURS
-**0_ENV**
-ÉTAPE 6: APPRENDRE À CONFIGURER VOTRE ESPACE DE TRAVAIL À L'AIDE DES FICHIERS DE CONFIGURATION VIA UNE VIDÉO TÉMOIN, ET AMÉLIORER LA CONFIGURATION LA PRISE-EN-MAIN ET LA COMPÉHENSION DE VSCODE:
-- .vscode, .gitignore, package.json
-- extensions, keyboard-shortcuts
-ÉTAPE 7: APPRENDRE DE NOUVELLES COMMANDES DU TERMINAL && GIT AINSI QUE LE CONCEPT DE GITFLOW ET L'UTILISATION COMPLÈTE DE L'INTERFACE GITHUB VIA UNE VIDÉO TÉMOIN, ET AMÉLIORER LA CONFIGURATION LA PRISE-EN-MAIN ET LA COMPÉHENSION DE VSCODE
-ÉTAPE 8: UTILISER UN OUTIL DE PAO EN LIGNE (figma), ET MÉMORISER L'ORDRE D'ENCHAÎNEMENT DES DIFFÉRENTES ÉTAPES DE LA PRODUCTION D'UNE PAGE WEB
-TP4: OPTIMISER VOTRE REPO 'bootstarter' AVEC TOUT CE QUI A ÉTÉ APPRIS ÉTAPES 6 ET 7 (FICHIERS DE CONFIGURATION, UTILISER LES NOUVEAUX PLUGINS VSCODE INSTALLÉS, CRÉER LES BRANCHES GITFLOW MANQUANTES, CODER LES FICHIERS HTML ET CSS CONTENANT LE CODE DE BASE QUE TOUT LES PROJETS UTILISERONT (LES BONNES PRATIQUES MISES EN BOÎTES))
-**1_HTML**
-ÉTAPE 9: APPRENDRE À CODER UNE BASELINE PROPRE ET VRAIMENT COMPRENDRE CE QU'EST LE HTML5 VIA UNE VIDÉO TÉMOIN, ET APPRÉHENDER LA NOTION DE SÉMANTIQUE EN HTML
-ÉTAPE 10: APPRENDRE L'ENSEMBLE DES BALISES HTML5 VIA UNE ANALYSE PAR CATÉGORIES DES BALISES DANS UNE VIDÉO TÉMOIN, ET DÉCOUVRIR L'UTILISATION DE SERVICES-ONLINE POUR LE DÉVELOPPEMENT WEB (font-awesome, google-font, lipsum-pixel)
-        TP5: S'AMUSER AUTANT QUE POSSIBLE À RETOUCHER VOTRE PORTFOLIO SUR LA BRANCHE 'cloned' EN MODIFIANT LA CODE HTML ET LE STYLE CSS POUR Y APPLIQUER TOUT CE QUE DÉCOUVERT DEPUIS L'ÉTAPE 9
-**2_CSS**
-ÉTAPE 11: APPRENDRE À UTILISER SASS ET À UTILISER LES STANDARD BEM ET LA CODEBASE EN SYSTÈME 7-1 POUR SASS VIA UNE VIDÉO TÉMOIN
-ÉTAPE 12: PRATIQUER LES RÈGLES CSS AVANCÉES EN REPRODUISANT UNE VIDÉO TÉMOIN, ET EN PRATIQUANT DES EXERCICES QUIZES CODEPEN ET TUTORIELS
-TP6: RÉALISER LE PROJET 2
+Petite description contenant **instructions avec directives** dans ce petit paragraphe...
+
+---
+
+## GUIDES & EXERCICES
+
+La branche main est juste un overview
+
+
+### 1) CRÉER DES COMPTES SUR DES PLATEFORMES WEB
+[![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
+- [Github](https://github.com/)
+- [Codepen](https://codepen.io/)
+- [Codesandbox](https://codesandbox.io/)
+- [Figma](https://www.figma.com/)
+
+### 2) INSTALLER CE DOSSIER DANS LES FAVORIS DU NAVIGATEUR
+[![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
+
+- [favoris browser](https://drive.google.com/drive/folders/_____KEY_ID_____?usp=sharing)
+
+images gif explicatives: ...
+![alt gif décrivant une action précise](http://url_de_l_image)
+
+### 3) INSTALLER DES LOGICIELS SUR VOTRE ORDINATEUR:
+Installer sur votre ordinateur: **Nodejs**, **git**, et **vscode**
+[![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
+- [Nodejs](https://nodejs.org/en/download/)
+- [Git](https://git-scm.com/downloads): Choisir son OS (windows, Linux, mac ...etc)
+[How to install git ?](https://www.youtube.com/watch?v=G0UV0jKgV4Y&list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP&index=2&ab_channel=Grafikart.fr)
+- [Vscode](https://code.visualstudio.com/download)
+
+images gif explicatives: ...
+![alt gif décrivant une action précise](http://url_de_l_image)
+
+### 4) VIA UN TERMINAL, INITIALISER UN NOUVELLE ESPACE DE TRAVAIL SUR VOTRE ORDINATEUR
+Le terminal utilise bash(LINUX) ou DOS(WINDOWS), nous en verrons quelque commandes, l'utilisation de npm et de git en clonant un repository.
+[![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
+- Ouvrir le terminal
+images gif explicatives: ...
+![alt gif ouvrir un terminal](http://url_de_l_image)
+    - Avec la commande '**cd**', se déplacer jusque sur le bureau 
+    - Avec la commande '**mkdir**', Y créer un dossier (sur le bureau donc) destiné à tous vos futurs projets de développement web, puis se déplacer dans ce dossier fraîchement créé (avec '**cd**' toujours)
+    - Avec la commande '**touch**', y créer un fichier nommé '**index.html**'
+    - Avec la commande '**ls**', vérifier l'état de votre espace de travail (il ne contient que le fichier 'index.html')
+    - En tapant '**npm init**', initialiser le NodePacketManager '**npm**' (un outil de NodeJS) sur votre espace de travail (un fichier package.json apparaît dans votre espace de travail)
+
+---
+    - Avec la commande '**ls**', vérifier l'état de votre espace de traavail (il y a maintenant 2 fichiers: index.html et package.json)
+    - Rechercher 'portfolio' sur [codepen](https://codepen.io/), et sélecitonner le design désiré un la première version de votre futur portfolio 
+    - Avec la commande 'cd', se déplacer jusque sur le bureau 
+    - Y créer un dossier (sur le bureau donc) destiné à tous vos futurs projets de développement web
+    - Y entrer (commande 'cd')
+    - Y créer un dossier (dans votre espace de travail donc) nommé portfolio
+
+---
+    - Avec la commande '**code .**, ouvrir vscode
+
+[Terminal, aller un peu plus loin](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)
+
+### 5) DÉCOUVRIR VSCODE, ET SES ATOUTS ASTUCES ET ASPECTS LES PLUS IMPORTANTS
+Pour la suite, vous avez déjà ouvert vscode avec comme workspace votre espace de travail
+[![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
+- [Configurer && Découvrir](https://openclassrooms.com/fr/courses/6943241-mettez-en-place-votre-environnement-front-end/7056001-editez-vos-premieres-lignes-de-code-avec-visual-studio-code) Visual Studio Code ; (Thèmes/Polices, Utiliser l'éditeur, Gérez vos dossiers de travail, Palette de commandes, l'Indentation)
+- [VSCode frontend](https://openclassrooms.com/fr/courses/6943241-mettez-en-place-votre-environnement-front-end/7117191-explorez-les-fonctionnalites-de-visual-studio-code)
+(Manipuler le terminal dans vscode, Utiliser Git dans vscode, Installer des extensions sur vscode) emmet
+
+### 6) DÉCOUVRIR LA CONSOLE DE VOTRE NAVIGATEUR-WEB
+- [la Console du navigateur](https://openclassrooms.com/fr/courses/6943241-mettez-en-place-votre-environnement-front-end/7056021-testez-votre-code-avec-les-devtools-chrome-et-firefox)
+
+
+
+
+
+
+
+
+![alt gif décrivant une action précise](http://url_de_l_image)
+[![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
+
+
+
+**Exercices**
+
+### X) CRÉER LA PREMIÈRE VERSION DE VOTRE PORTFOLIO EN UTILISANT UNIQUEMENT LA CONSOLE DU NAVIGATEUR
+
+
+### x) CRÉER LA SECONDE VERSION DE VOTRE PORTFOLIO EN UTILISANT: VSCODE, ET CODEPEN.IO
+- Rechercher 'portfolio' sur [codepen](https://codepen.io/), et sélecitonner le design désiré un la première version de votre futur portfolio 
+- Ouvrir le terminal
+images gif explicatives: ...
+![alt gif ouvrir un terminal](http://url_de_l_image)
+    - Avec la commande 'cd', se déplacer jusque sur le bureau 
+    - Y créer un dossier (sur le bureau donc) destiné à tous vos futurs projets de développement web
+    - Y entrer (commande 'cd')
+    - Y créer un dossier (dans votre espace de travail donc) nommé portfolio
+
+
+### X) CRÉER UN REPOSITORY BOOTSTARTER: POUR UNE ESPACE DE TRAVAIL DE BASE POUR VOS FUTURS PROJETS
+
+    
