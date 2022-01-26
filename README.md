@@ -5,14 +5,24 @@
 ---
 
 ## INFORMATIONS
-**Next step**: 
-repository: 0_ENV
-branch: etape_0
 
-**Current Repository**=>  [0_ENV](https://github.com/achicyr/0_ENV)
-**Current Branch**=> [main](https://github.com/achicyr/0_ENV)
+
+- **Current step**
+    - repository: [0_ENV](https://github.com/achicyr/0_ENV)
+    - branch: [main](https://github.com/achicyr/0_ENV/tree/etape_1)
+
+---
+
+- **Next step**
+
+    - repository: [0_ENV](https://github.com/achicyr/0_ENV)]
+
+    - branch: [etape_0](https://github.com/achicyr/0_ENV/tree/etape_0)
+
+---
+
 - Branches of this repo:
-    - main
+    - **main**
     - etape_0
     - etape_1
     - ___others___
