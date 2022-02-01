@@ -133,6 +133,16 @@ Pour la suite, vous avez déjà ouvert vscode avec comme workspace votre espace 
 
 **Exercices**
 
+### X) CRÉER UN NOUVEAU REPOSITORY SUR VOTRE COMPTE GITHUB
+cocher la case "add a readme file". 
+Puis, sur la pageweb de votre repo appuyer sur '.' pour ouvrir vscode sur github.
+Enfin éditer le fichier README.md de sorte à utiliser le language 'markdown' (se servir de la doc de 'markdown' dans le lien suivant) => utiliser
+- des titres de différentes importance
+- des liste
+- des paragraphes
+tout ça afin de décrire le contenu de votre futur portfolio (les réalisation, les formations, les compétences, vos hobbies, à propos de vous, etc..)
+
+
 ### X) CRÉER LA PREMIÈRE VERSION DE VOTRE PORTFOLIO EN UTILISANT UNIQUEMENT LA CONSOLE DU NAVIGATEUR
 
 
