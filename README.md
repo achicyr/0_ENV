@@ -62,8 +62,10 @@ La branche main est juste un overview
 [![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
 - [Github](https://github.com/)
 - [Codepen](https://codepen.io/)
-- [Codesandbox](https://codesandbox.io/)
+- [Replit](https://replit.com/)
+- [Glitch](https://glitch.com/)
 - [Figma](https://www.figma.com/)
+- [Shotcutfoo](https://www.shortcutfoo.com/)
 
 ### 2) INSTALLER CE DOSSIER DANS LES FAVORIS DU NAVIGATEUR
 [![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
@@ -73,16 +75,33 @@ La branche main est juste un overview
 images gif explicatives: ...
 ![alt gif décrivant une action précise](http://url_de_l_image)
 
-### 3) INSTALLER DES LOGICIELS SUR VOTRE ORDINATEUR:
+### 3) INSAATLLATIONS DE SOFTWARE QUI VOUS SERONT UTILES TOUT AU LONG DE VOTRE FORMATION
+#### A) INSTALLER DES LOGICIELS SUR VOTRE ORDINATEUR:
 Installer sur votre ordinateur: **Nodejs**, **git**, et **vscode**
 [![Image alt si vidéo nécessaire...](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
-- [Nodejs](https://nodejs.org/en/download/)
-- [Git](https://git-scm.com/downloads): Choisir son OS (windows, Linux, mac ...etc)
+- [Notepad++](https://www.shortcutfoo.com/app/dojos/command-line): Éditeur de code basique
+- [Vscode](https://code.visualstudio.com/download): Éditeur de code complet
+- [Git](https://git-scm.com/downloads): Outil de versionnage de code
 [How to install git ?](https://www.youtube.com/watch?v=G0UV0jKgV4Y&list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP&index=2&ab_channel=Grafikart.fr)
-- [Vscode](https://code.visualstudio.com/download)
+- [GitDesktop (windows, Mac)](https://desktop.github.com/): Utilitaire Git. Une "Graphical User Interfce" pour manipuler ses repository Git.
+- [Nodejs](https://nodejs.org/en/download/): Environnement de Développement JavaScript
+---
+- [Zoom](https://zoom.us/download): Outils de visio
+- [Teamviewer](https://www.teamviewer.com/fr/telecharger/): Outils de visio avec VPN
 
 images gif explicatives: ...
 ![alt gif décrivant une action précise](http://url_de_l_image)
+
+
+#### B) INSTALLER DES APPLICATIONS DE QUIZ SUR VOTRE TÉTÉLPHONE
+- [HTML](): Quiz HTML5
+- [CSS](): Quiz CSS3
+- [JS](): Quiz JavaScript
+- [GIT](): Quiz Git
+
+#### C) INSTALLER DES EXTENSIONS SUR VOTRE NAVIGATEUR WEB
+- []():
+
 
 ### 4) VIA UN TERMINAL, INITIALISER UN NOUVELLE ESPACE DE TRAVAIL SUR VOTRE ORDINATEUR
 Le terminal utilise bash(LINUX) ou DOS(WINDOWS), nous en verrons quelque commandes, l'utilisation de npm et de git en clonant un repository.
